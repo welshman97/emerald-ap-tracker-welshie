@@ -1,9 +1,9 @@
 ﻿{
-	"name": "Pokémon Emerald Archipleago",
+	"name": "Pokémon Emerald Archipleago Welshie",
 	"game_name": "Pokémon Emerald",
-	"package_version": "0.0.2.3",
+	"package_version": "0.0.2.4",
 	"package_uid": "ap_emerald",
-	"author": "AliceMousie",
+	"author": "Welshie",
 	"variants": {
 		"standard": {
 			"display_name": "Map Tracker",

@@ -38,6 +38,13 @@
 				}
 			},
 			{
+				"title": "Route 119",
+				"content": {
+					"type": "map",
+					"maps": ["rt119"]
+				}
+			},
+			{
 				"title": "Safari Zone",
 				"content": {
 					"type": "map",
