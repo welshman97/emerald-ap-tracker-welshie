@@ -1169,6 +1169,102 @@
 				"name": "",
 				"sections": [
 					{
+						"name": "Item Across River South",
+						"ref": "Hoenn/Route 119/Item Across River South"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rt119",
+						"x": 41,
+						"y": 274
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"name": "Item Near South Waterfall",
+						"ref": "Hoenn/Route 119/Item Near South Waterfall"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rt119",
+						"x": 281,
+						"y": 49
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"name": "Item Near Mud Slope",
+						"ref": "Hoenn/Route 119/Item Near Mud Slope"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rt119",
+						"x": 504,
+						"y": 621
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"name": "Item East of Mud Slope",
+						"ref": "Hoenn/Route 119/Item East of Mud Slope"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rt119",
+						"x": 777,
+						"y": 582
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"name": "Item on River Bank",
+						"ref": "Hoenn/Route 119/Item on River Bank"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rt119",
+						"x": 733,
+						"y": 464
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"name": "HM02 from Rival Battle",
+						"ref": "Hoenn/Route 119/HM02 from Rival Battle"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rt119",
+						"x": 751,
+						"y": 344
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
 						"name": "Route 132 - Item 1",
 						"ref": "Hoenn/Route 132/Item 1"
 					}
