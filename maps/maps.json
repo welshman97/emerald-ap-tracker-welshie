@@ -42,6 +42,12 @@
 		"img": "images/maps/route120.png"
 	},
 	{
+		"name": "seafloor_cavern",
+		"location_size": 16,
+		"location_border_thickness": 2,
+		"img": "images/maps/SeafloorCavern.png"
+	},
+	{
 		"name": "safari",
 		"location_size": 40,
 		"location_border_thickness": 6,
