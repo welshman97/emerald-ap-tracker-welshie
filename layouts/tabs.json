@@ -45,6 +45,13 @@
 				}
 			},
 			{
+				"title": "Route 120",
+				"content": {
+					"type": "map",
+					"maps": ["rt120"]
+				}
+			},
+			{
 				"title": "Safari Zone",
 				"content": {
 					"type": "map",

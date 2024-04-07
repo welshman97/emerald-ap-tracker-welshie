@@ -1265,6 +1265,118 @@
 				"name": "",
 				"sections": [
 					{
+						"name": "Scorched Slab - Item",
+						"ref": "Hoenn/Route 120/Scorched Slab - Item"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rt120",
+						"x": 310,
+						"y": 367
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"name": "Devon Scope from Steven",
+						"ref": "Hoenn/Route 120/Devon Scope from Steven"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rt120",
+						"x": 204,
+						"y": 259
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"name": "Item Behind Southwest Pool",
+						"ref": "Hoenn/Route 120/Item Behind Southwest Pool"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rt120",
+						"x": 764,
+						"y": 635
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"name": "Item in Tall Grass South",
+						"ref": "Hoenn/Route 120/Item in Tall Grass South"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rt120",
+						"x": 1031,
+						"y": 532
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"name": "Item Near North Pond",
+						"ref": "Hoenn/Route 120/Item Near North Pond"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rt120",
+						"x": 358,
+						"y": 216
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"name": "Item in Tall Grass Maze",
+						"ref": "Hoenn/Route 120/Item in Tall Grass Maze"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rt120",
+						"x": 986,
+						"y": 102
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"name": "Item in North Puddles",
+						"ref": "Hoenn/Route 120/Item in North Puddles"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rt120",
+						"x": 391,
+						"y": 541
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
 						"name": "Route 132 - Item 1",
 						"ref": "Hoenn/Route 132/Item 1"
 					}

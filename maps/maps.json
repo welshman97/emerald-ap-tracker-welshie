@@ -36,6 +36,12 @@
 		"img": "images/maps/route119.png"
 	},
 	{
+		"name": "rt120",
+		"location_size": 16,
+		"location_border_thickness": 2,
+		"img": "images/maps/route120.png"
+	},
+	{
 		"name": "safari",
 		"location_size": 40,
 		"location_border_thickness": 6,
