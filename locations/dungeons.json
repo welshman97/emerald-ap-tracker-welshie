@@ -1265,6 +1265,70 @@
 				"name": "",
 				"sections": [
 					{
+						"name": "Item in South Tall Grass 1",
+						"ref": "Hoenn/Route 119/Item in South Tall Grass 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rt119",
+						"x": 139,
+						"y": 558
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"name": "Item in South Tall Grass 2",
+						"ref": "Hoenn/Route 119/Item in South Tall Grass 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rt119",
+						"x": 373,
+						"y": 516
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"name": "Item Above North Waterfall 1",
+						"ref": "Hoenn/Route 119/Item Above North Waterfall 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rt119",
+						"x": 559,
+						"y": 196
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"name": "Item Above North Waterfall 2",
+						"ref": "Hoenn/Route 119/Item Above North Waterfall 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rt119",
+						"x": 685,
+						"y": 156
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
 						"name": "Scorched Slab - Item",
 						"ref": "Hoenn/Route 120/Scorched Slab - Item"
 					}
