@@ -1377,6 +1377,86 @@
 				"name": "",
 				"sections": [
 					{
+						"name": "Item 1",
+						"ref": "Hoenn/New Mauville/Item 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "new_mauville",
+						"x": 875,
+						"y": 419
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"name": "Item 2",
+						"ref": "Hoenn/New Mauville/Item 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "new_mauville",
+						"x": 432,
+						"y": 367
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"name": "Item 3",
+						"ref": "Hoenn/New Mauville/Item 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "new_mauville",
+						"x": 64,
+						"y": 186
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"name": "Item 4",
+						"ref": "Hoenn/New Mauville/Item 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "new_mauville",
+						"x": 463,
+						"y": 170
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"name": "Item 5",
+						"ref": "Hoenn/New Mauville/Item 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "new_mauville",
+						"x": 1031,
+						"y": 81
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
 						"name": "Route 132 - Item 1",
 						"ref": "Hoenn/Route 132/Item 1"
 					}

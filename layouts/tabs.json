@@ -38,6 +38,13 @@
 				}
 			},
 			{
+				"title": "New Mauville",
+				"content": {
+					"type": "map",
+					"maps": ["new_mauville"]
+				}
+			},
+			{
 				"title": "Route 119",
 				"content": {
 					"type": "map",

@@ -30,6 +30,12 @@
 		"img": "images/maps/abandonedship.png"
 	},
 	{
+		"name": "new_mauville",
+		"location_size": 16,
+		"location_border_thickness": 2,
+		"img": "images/maps/new_mauville.png"
+	},
+	{
 		"name": "rt119",
 		"location_size": 16,
 		"location_border_thickness": 2,
@@ -89,4 +95,5 @@
 		"location_border_thickness": 5,
 		"img": "images/maps/rt132_134.png"
 	}
+	
 ]
