@@ -1321,7 +1321,7 @@
 					{
 						"map": "rt119",
 						"x": 569,
-						"y": 196
+						"y": 150
 					}
 				]
 			},
@@ -1441,8 +1441,8 @@
 				"name": "",
 				"sections": [
 					{
-						"name": "Item 1",
-						"ref": "Hoenn/New Mauville/Item 1"
+						"name": "Item 5",
+						"ref": "Hoenn/New Mauville/Item 5"
 					}
 				],
 				"map_locations": [
@@ -1457,8 +1457,8 @@
 				"name": "",
 				"sections": [
 					{
-						"name": "Item 2",
-						"ref": "Hoenn/New Mauville/Item 2"
+						"name": "Item 1",
+						"ref": "Hoenn/New Mauville/Item 1"
 					}
 				],
 				"map_locations": [
@@ -1473,8 +1473,8 @@
 				"name": "",
 				"sections": [
 					{
-						"name": "Item 3",
-						"ref": "Hoenn/New Mauville/Item 3"
+						"name": "Item 2",
+						"ref": "Hoenn/New Mauville/Item 2"
 					}
 				],
 				"map_locations": [
@@ -1489,8 +1489,8 @@
 				"name": "",
 				"sections": [
 					{
-						"name": "Item 4",
-						"ref": "Hoenn/New Mauville/Item 4"
+						"name": "Item 3",
+						"ref": "Hoenn/New Mauville/Item 3"
 					}
 				],
 				"map_locations": [
@@ -1505,8 +1505,8 @@
 				"name": "",
 				"sections": [
 					{
-						"name": "Item 5",
-						"ref": "Hoenn/New Mauville/Item 5"
+						"name": "Item 4",
+						"ref": "Hoenn/New Mauville/Item 4"
 					}
 				],
 				"map_locations": [
